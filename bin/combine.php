@@ -25,6 +25,12 @@ function getChannel($fileName) {
   return $tv[$channelId]['name'];
 }
 
+function getTimeSort($time) {
+  list($h, $m) = explode(':', $time);
+  // TV Schedule starts at 5 every day
+  return ((($h - 5 + 24) % 24 ) * 60) + $m;
+}
+
 function parseFile($fileName) {
   $result = [];
   $handle = fopen($fileName, "r");
@@ -69,9 +75,10 @@ foreach ($rii as $fileInfo) {
   }
 }
 
+
 usort($allRows, function($a, $b) {
   // date; channel; time
-  return [$a[1], $a[0], $a[2]] <=> [$b[1], $b[0], $b[2]];
+  return [$a[1], $a[0], getTimeSort($a[2])] <=> [$b[1], $b[0], getTimeSort($b[2])];
 });
 
 $header = ['channel', 'date', 'time', 'name'];
