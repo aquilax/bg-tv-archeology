@@ -36,6 +36,7 @@ function parseFile($fileName) {
   $handle = fopen($fileName, "r");
   $date = getDateFromFileName($fileName);
   $channel = getChannel($fileName);
+  $containsInvalidTime = false;
   while (($line = fgets($handle)) !== false) {
     $line = trim($line);
     if ($line[0] == '#') {
@@ -49,6 +50,7 @@ function parseFile($fileName) {
       $time = trim(array_shift($row));
       if (!preg_match('/^\d{2}:\d{2}$/', $time)) {
         fwrite(STDERR, sprintf("Invalid time in (%s): `%s`\n", $fileName, $time));
+        $containsInvalidTime = true;
       }
       $result[] = [
         $channel,
@@ -59,6 +61,7 @@ function parseFile($fileName) {
     }
   }
   fclose($handle);
+  if($containsInvalidTime) die();
   return $result;
 }
 
