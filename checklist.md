@@ -1,6 +1,5 @@
 # Checklist
 
-
 ## 1959
 
 * 1959-12-26 [ ] [Първа програма](data/1959/12/26/parva-programa.tsv)
@@ -11369,7 +11368,7 @@
 * 1990-11-03 [ ] [Втора програма](data/1990/11/03/vtora-programa.tsv) [ ] [Първа програма](data/1990/11/03/parva-programa.tsv)
 * 1990-11-04 [ ] [Втора програма](data/1990/11/04/vtora-programa.tsv) [ ] [Първа програма](data/1990/11/04/parva-programa.tsv)
 * 1990-11-05 [x] [Втора програма](data/1990/11/05/vtora-programa.tsv) [x] [Първа програма](data/1990/11/05/parva-programa.tsv)
-* 1990-11-06 [ ] [Втора програма](data/1990/11/06/vtora-programa.tsv) [ ] [Първа програма](data/1990/11/06/parva-programa.tsv)
+* 1990-11-06 [x] [Втора програма](data/1990/11/06/vtora-programa.tsv) [x] [Първа програма](data/1990/11/06/parva-programa.tsv)
 * 1990-11-07 [ ] [Втора програма](data/1990/11/07/vtora-programa.tsv) [ ] [Първа програма](data/1990/11/07/parva-programa.tsv)
 * 1990-11-08 [ ] [Втора програма](data/1990/11/08/vtora-programa.tsv) [ ] [Първа програма](data/1990/11/08/parva-programa.tsv)
 * 1990-11-09 [ ] [Втора програма](data/1990/11/09/vtora-programa.tsv) [ ] [Първа програма](data/1990/11/09/parva-programa.tsv)
