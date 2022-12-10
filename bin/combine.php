@@ -40,7 +40,10 @@ function parseFile($fileName) {
       if ($row[0] === "time") {
         continue;
       }
-      $time = array_shift($row);
+      $time = trim(array_shift($row));
+      if (!preg_match('/^\d{2}:\d{2}$/', $time)) {
+        fwrite(STDERR, sprintf("Invalid time in (%s): `%s`\n", $fileName, $time));
+      }
       $result[] = [
         $channel,
         $date,
