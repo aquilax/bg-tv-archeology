@@ -10,4 +10,4 @@ bootstrap:
 	php bin/bootstrap.php data/
 
 checklist:
-  php bin/checklist.php data/ > checklist.md
+	php bin/checklist.php data/ > checklist.md
