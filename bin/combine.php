@@ -31,7 +31,8 @@ function parseFile($fileName) {
   $date = getDateFromFileName($fileName);
   $channel = getChannel($fileName);
   while (($line = fgets($handle)) !== false) {
-    if (trim($line)[0] == '#') {
+    $line = trim($line);
+    if ($line[0] == '#') {
       continue;
     }
     $row = str_getcsv($line, "\t");
