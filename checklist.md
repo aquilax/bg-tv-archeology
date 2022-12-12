@@ -8685,7 +8685,7 @@
 * 1983-07-21 [ ] [Втора програма](data/1983/07/21/vtora-programa.tsv) [ ] [Първа програма](data/1983/07/21/parva-programa.tsv)
 * 1983-07-22 [ ] [Втора програма](data/1983/07/22/vtora-programa.tsv) [ ] [Първа програма](data/1983/07/22/parva-programa.tsv)
 * 1983-07-23 [ ] [Втора програма](data/1983/07/23/vtora-programa.tsv) [ ] [Първа програма](data/1983/07/23/parva-programa.tsv)
-* 1983-07-24 [ ] [Втора програма](data/1983/07/24/vtora-programa.tsv) [ ] [Първа програма](data/1983/07/24/parva-programa.tsv)
+* 1983-07-24 [ ] [Втора програма](data/1983/07/24/vtora-programa.tsv) [x] [Първа програма](data/1983/07/24/parva-programa.tsv)
 * 1983-07-25 [ ] [Втора програма](data/1983/07/25/vtora-programa.tsv) [ ] [Първа програма](data/1983/07/25/parva-programa.tsv)
 * 1983-07-26 [ ] [Втора програма](data/1983/07/26/vtora-programa.tsv) [ ] [Първа програма](data/1983/07/26/parva-programa.tsv)
 * 1983-07-27 [ ] [Втора програма](data/1983/07/27/vtora-programa.tsv) [ ] [Първа програма](data/1983/07/27/parva-programa.tsv)
