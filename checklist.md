@@ -11532,7 +11532,7 @@
 * 1991-04-13 [ ] [Втора програма](data/1991/04/13/vtora-programa.tsv) [ ] [Първа програма](data/1991/04/13/parva-programa.tsv)
 * 1991-04-14 [ ] [Втора програма](data/1991/04/14/vtora-programa.tsv) [ ] [Първа програма](data/1991/04/14/parva-programa.tsv)
 * 1991-04-15 [ ] [Втора програма](data/1991/04/15/vtora-programa.tsv) [ ] [Първа програма](data/1991/04/15/parva-programa.tsv)
-* 1991-04-16 [ ] [Втора програма](data/1991/04/16/vtora-programa.tsv) [ ] [Първа програма](data/1991/04/16/parva-programa.tsv)
+* 1991-04-16 [x] [Втора програма](data/1991/04/16/vtora-programa.tsv) [x] [Първа програма](data/1991/04/16/parva-programa.tsv)
 * 1991-04-17 [ ] [Втора програма](data/1991/04/17/vtora-programa.tsv) [ ] [Първа програма](data/1991/04/17/parva-programa.tsv)
 * 1991-04-18 [ ] [Втора програма](data/1991/04/18/vtora-programa.tsv) [ ] [Първа програма](data/1991/04/18/parva-programa.tsv)
 * 1991-04-19 [ ] [Втора програма](data/1991/04/19/vtora-programa.tsv) [ ] [Първа програма](data/1991/04/19/parva-programa.tsv)
