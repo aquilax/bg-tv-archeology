@@ -85,6 +85,6 @@ foreach($grouped as $date => $rows) {
     $carry[] = sprintf("[%s] [%s](%s)", $item['hasContent'] ? 'x' : ' ', $item['channel'], $item['file']);
     return $carry;
   }, []);
-
+  sort($tvs);
   printf("* %s %s\n", $date, implode(' ', $tvs));
 }
