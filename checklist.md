@@ -7009,7 +7009,7 @@
 ## 1979
 
 * 1979-01-01 [x] [Втора програма](data/1979/01/01/vtora-programa.tsv) [x] [Първа програма](data/1979/01/01/parva-programa.tsv)
-* 1979-01-02 [ ] [Втора програма](data/1979/01/02/vtora-programa.tsv) [ ] [Първа програма](data/1979/01/02/parva-programa.tsv)
+* 1979-01-02 [ ] [Втора програма](data/1979/01/02/vtora-programa.tsv) [x] [Първа програма](data/1979/01/02/parva-programa.tsv)
 * 1979-01-03 [ ] [Втора програма](data/1979/01/03/vtora-programa.tsv) [ ] [Първа програма](data/1979/01/03/parva-programa.tsv)
 * 1979-01-04 [ ] [Втора програма](data/1979/01/04/vtora-programa.tsv) [ ] [Първа програма](data/1979/01/04/parva-programa.tsv)
 * 1979-01-05 [ ] [Втора програма](data/1979/01/05/vtora-programa.tsv) [ ] [Първа програма](data/1979/01/05/parva-programa.tsv)
