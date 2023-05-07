@@ -1,6 +1,6 @@
 .PHONY: build lint bootstrap
 
-build:
+build: checklist
 	php bin/combine.php data/ > complete.csv
 
 lint:
