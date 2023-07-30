@@ -2213,16 +2213,16 @@
 * 1965-12-24 [ ] [Първа програма](data/1965/12/24/parva-programa.tsv)
 * 1965-12-25 [ ] [Първа програма](data/1965/12/25/parva-programa.tsv)
 * 1965-12-26 [ ] [Първа програма](data/1965/12/26/parva-programa.tsv)
-* 1965-12-27 [ ] [Първа програма](data/1965/12/27/parva-programa.tsv)
+* 1965-12-27 [x] [Първа програма](data/1965/12/27/parva-programa.tsv)
 * 1965-12-28 [ ] [Първа програма](data/1965/12/28/parva-programa.tsv)
-* 1965-12-29 [ ] [Първа програма](data/1965/12/29/parva-programa.tsv)
-* 1965-12-30 [ ] [Първа програма](data/1965/12/30/parva-programa.tsv)
-* 1965-12-31 [ ] [Първа програма](data/1965/12/31/parva-programa.tsv)
+* 1965-12-29 [x] [Първа програма](data/1965/12/29/parva-programa.tsv)
+* 1965-12-30 [x] [Първа програма](data/1965/12/30/parva-programa.tsv)
+* 1965-12-31 [x] [Първа програма](data/1965/12/31/parva-programa.tsv)
 
 ## 1966
 
-* 1966-01-01 [ ] [Първа програма](data/1966/01/01/parva-programa.tsv)
-* 1966-01-02 [ ] [Първа програма](data/1966/01/02/parva-programa.tsv)
+* 1966-01-01 [x] [Първа програма](data/1966/01/01/parva-programa.tsv)
+* 1966-01-02 [x] [Първа програма](data/1966/01/02/parva-programa.tsv)
 * 1966-01-03 [ ] [Първа програма](data/1966/01/03/parva-programa.tsv)
 * 1966-01-04 [ ] [Първа програма](data/1966/01/04/parva-programa.tsv)
 * 1966-01-05 [ ] [Първа програма](data/1966/01/05/parva-programa.tsv)
